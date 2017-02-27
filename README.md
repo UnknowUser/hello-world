@@ -1,2 +1,5 @@
 # hello-world
-My first repositoy
+
+My first repository
+
+I'm ediditing my readme file to learn how GitHub works
